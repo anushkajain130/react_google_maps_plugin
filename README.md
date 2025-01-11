@@ -18,7 +18,7 @@ This React-based project renders a Google Map with interactive markers. Each mar
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/anushkajain130/react_google_maps_plugin
    cd <repository-folder>
    ```
 
